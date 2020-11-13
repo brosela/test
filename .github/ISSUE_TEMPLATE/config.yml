@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+   - name: Report issues in our other repository 
+   - url: github.com/brosela/test2
+   - about: We track our issues in a separate repo
